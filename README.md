@@ -1,0 +1,4 @@
+- I’m David S.
+- I’m interested in website development
+- I’m currently in the final years of my Master 
+- I’m looking to collaborate on any software development project
